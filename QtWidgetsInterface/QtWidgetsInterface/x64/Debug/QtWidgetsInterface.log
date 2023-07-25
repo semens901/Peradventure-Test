@@ -1,0 +1,10 @@
+﻿  moc QtInterface.h
+  moc Messenger.h
+  ClientServer.cpp
+  Messenger.cpp
+  QtInterface.cpp
+  main.cpp
+  qrc_QtInterface.cpp
+  moc_QtInterface.cpp
+  moc_Messenger.cpp
+  QtWidgetsInterface.vcxproj -> C:\Users\Simon\Messenger\PeradventureInterfaceQT\QtWidgetsInterface\x64\Debug\QtWidgetsInterface.exe
